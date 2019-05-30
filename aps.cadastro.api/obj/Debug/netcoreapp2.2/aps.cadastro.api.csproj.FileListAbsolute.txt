@@ -1,0 +1,15 @@
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\bin\Debug\netcoreapp2.2\aps.cadastro.api.dll.config
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\bin\Debug\netcoreapp2.2\aps.cadastro.api.deps.json
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\bin\Debug\netcoreapp2.2\aps.cadastro.api.runtimeconfig.json
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\bin\Debug\netcoreapp2.2\aps.cadastro.api.runtimeconfig.dev.json
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\bin\Debug\netcoreapp2.2\aps.cadastro.api.dll
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\bin\Debug\netcoreapp2.2\aps.cadastro.api.pdb
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\obj\Debug\netcoreapp2.2\aps.cadastro.api.csprojAssemblyReference.cache
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\obj\Debug\netcoreapp2.2\aps.cadastro.api.csproj.CoreCompileInputs.cache
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\obj\Debug\netcoreapp2.2\aps.cadastro.api.RazorAssemblyInfo.cache
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\obj\Debug\netcoreapp2.2\aps.cadastro.api.RazorAssemblyInfo.cs
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\obj\Debug\netcoreapp2.2\aps.cadastro.api.AssemblyInfoInputs.cache
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\obj\Debug\netcoreapp2.2\aps.cadastro.api.AssemblyInfo.cs
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\obj\Debug\netcoreapp2.2\aps.cadastro.api.RazorTargetAssemblyInfo.cache
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\obj\Debug\netcoreapp2.2\aps.cadastro.api.dll
+C:\VisualStudio\APSMAP-master\APSMAP-master\aps.cadastro.api\obj\Debug\netcoreapp2.2\aps.cadastro.api.pdb
